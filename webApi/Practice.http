@@ -1,0 +1,6 @@
+@Practice_HostAddress = http://localhost:5063
+
+GET {{Practice_HostAddress}}/Users/
+Accept: application/json
+
+###
